@@ -1,0 +1,9 @@
+Package: net.rinsuki.tweaks.ytnativeshare
+Name: YTNativeShare
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: rinsuki <contact.tweaks@rinsuki.net>
+Author: rinsuki <contact.tweaks@rinsuki.net>
+Section: Tweaks
+Description: YouTubeアプリで共有する際「その他」(iOSの共有メニューが出る)を自動で選択します。
