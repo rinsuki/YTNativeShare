@@ -9,17 +9,6 @@
 @interface YTShareRequestViewController: UIViewController
 @end
 
-// %hook YTShareHorizontalCollectionViewLayout
-
-// - (NSArray<__kindof UICollectionViewLayoutAttributes *> *)layoutAttributesForElementsInRect:(CGRect)rect {
-// 	NSArray<__kindof UICollectionViewLayoutAttributes *>* orig = %orig;
-// 	for (UICollectionViewLayoutAttributes* attr in orig) {
-// 		attrr
-// 	}
-// }
-
-// %end
-
 %hook YTShareTargetCell
 
 - (void)drawRect:(CGRect)rect {
