@@ -1,4 +1,4 @@
-# FixNicoCrash
+# YTNativeShare
 
 iOS 版 YouTube アプリで共有メニューを開いた時に自動で「その他」(OS の共有メニューが開く)を選択する Tweak です。
 
